@@ -30,6 +30,7 @@
       "Bash(php:*)",
       "Bash(pushd:*)",
       "Bash(rg:*)",
+      "Bash(sed:*)",
       "Bash(timeout:*)",
       "Bash(tree:*)",
       "Bash(true)",
