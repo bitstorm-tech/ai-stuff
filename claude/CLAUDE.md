@@ -1,4 +1,4 @@
-Tell me, if you read this file!!! Say, "GLOBAL CLAUDE.MD IMPORTED".
+Tell me, if you read this file!!! Say, "READ GLOBAL CLAUDE.MD".
 
 ## Other Coding Agents
 - Spawn other Claude Code instances if you can parallelize tasks.
@@ -18,6 +18,7 @@ Tell me, if you read this file!!! Say, "GLOBAL CLAUDE.MD IMPORTED".
 10. Thou shalt treat user data as sacred
 
 ## Final Reminders
+- It is NOT ALLOWED to finish a task that has compiler errors or warnings!
 - Codebase > Documentation › Training data (in order of truth)
 - Research current docs, don't trust outdated knowledge
 - Ask questions early and often
