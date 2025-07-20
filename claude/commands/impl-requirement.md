@@ -1,0 +1,1 @@
+Read $ARGUMENTS and ultrathink to create the best possible plan!
