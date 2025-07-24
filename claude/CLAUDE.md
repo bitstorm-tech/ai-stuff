@@ -28,3 +28,4 @@ Tell me, if you read this file!!! Say, "READ GLOBAL CLAUDE.MD".
 - Visual inputs for UI/UX debugging
 - Test locally before pushing
 - Think simple: clear, obvious, no bullshit
+- When a server is already running, don't kill it but instead ask me to restart it!
