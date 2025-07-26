@@ -1,5 +1,3 @@
-Tell me, if you read this file!!! Say, "READ GLOBAL CLAUDE.MD".
-
 ## Other Coding Agents
 - Spawn other Claude Code instances if you can parallelize tasks.
 - Ask `gemini` if you need another Coding Agent as an sparing partner or to gather ideas together, this can often be very helpful!
