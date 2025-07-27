@@ -4,11 +4,11 @@ Create a new requirements file within the `requirements` folder. The file should
 # $ARGUMENTS"
 
 ## Requirements Backend
--
+- B1
 
 ## Requirements Frontend
--
+- F1
 
-## Remarks
-Think hard to create the best possible architecture and plan.
+## Instructions
+Ultrathink to create the best possible architecture and plan.
 ```
