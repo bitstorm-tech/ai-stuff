@@ -1,1 +1,1 @@
-Create a git commit with a one line message and without any author information. Try to limit the length of the message to 72 characters if possible.
+Create a git commit with a one line message and without any author information. Limit the length of the commit message to max. 72 characters. The commit message must be based on the changed or new files (check git).
