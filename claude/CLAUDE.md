@@ -1,5 +1,5 @@
 ## Other Coding Agents
-- Spawn other Claude Code instances if you can parallelize tasks.
+- **VERY IMPORTANT:** Use sub agents whenever possible!
 - Ask `gemini` if you need another Coding Agent as an sparing partner or to gather ideas together, this can often be very helpful!
 - You can use `gemini` as a normal command line tool with `gemini -p`.
 
