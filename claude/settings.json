@@ -8,7 +8,7 @@
   "permissions": {
     "allow": []
   },
-  "model": "opus",
+  "model": "opusplan",
   "feedbackSurveyState": {
     "lastShownTime": 1754127176755
   }
